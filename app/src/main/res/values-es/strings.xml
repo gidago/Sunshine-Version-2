@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Sunshine</string>
+    <string name="action_map">Ubicación en mapa</string>
+    <string name="action_settings">Opciones</string>
+    <string name="action_share">Compartir</string>
+    <string name="title_activity_detail">Detalles</string>
+    <string name="title_activity_settings">Opciones</string>
+    <string name="today">Hoy</string>
+    <string name="tomorrow">Mañana</string>
+    <string name="format_pressure">Presión: <xliff:g id="presión">%1.0f</xliff:g> hPa</string>
+    <string name="format_humidity">Humedad: <xliff:g id="humedad">%1.0f</xliff:g> %%</string>
+    <string name="format_full_friendly_date"><xliff:g id="mes">%1$s</xliff:g>, <xliff:g id="dia">%2$s</xliff:g></string>
+    <string name="format_wind_kmh">Viento: <xliff:g id="velocidad">%1$1.0f</xliff:g> km/h <xliff:g id="dirección">%2$s</xliff:g></string>
+</resources>
